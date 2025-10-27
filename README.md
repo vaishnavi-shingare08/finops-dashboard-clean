@@ -313,9 +313,6 @@ cd finops-dashboard-clean
 
 # Configure AWS credentials in .env
 python3 fetch_cost_data.py
-```
-
----
 
 ## 📝 License
 
