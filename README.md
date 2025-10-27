@@ -1,6 +1,4 @@
-Absolutely! Here’s a **ready-to-paste, clean, GitHub-friendly README** for your repo `finops-dashboard-clean`. It’s polished, structured, and easy to follow:
 
----
 
 # 💰 FinOps Dashboard for Cloud Cost Visibility (Free Tier Usage Tracker)
 
